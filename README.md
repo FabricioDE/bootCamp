@@ -1,4 +1,5 @@
-# Modern Data Stack Procjet
+# Modern Data Stack Project
+
 
 ## O objetivo desse projeto é criar um pipeline completo, utilizando ferramentas atuais de mercado como Snowflake e DBT.
 

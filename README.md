@@ -50,6 +50,3 @@ O pipeline foi desenvolvido utilizando plataformas cloud, sendo assim é necessa
 
 
 
-
-
-

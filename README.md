@@ -14,34 +14,34 @@ O pipeline foi desenvolvido utilizando plataformas cloud, sendo assim é necessa
 #### View's de origem:
    ##### STG_TPCH_SF1__CUSTOMER
 
-        ![GET](images/customer.png)
+![GET](images/customer.png)
 
    ##### STG_TPCH_SF1__NATION
 
-        ![GET](images/nation.png)
+![GET](images/nation.png)
 
    ##### STG_TPCH_SF1__REGION
 
-        ![GET](images/region.png)
+![GET](images/region.png)
 
 ##### Tabela dimensão para load
 
    ##### DIM_CUSTOMER
 
 
-        ![GET](images/dim01.png)
+![GET](images/dim01.png)
 
 
 ### Transformação:
  
      dim_customer.sql
 
-        ![GET](images/flow.png)
+![GET](images/flow.png)
     
     Logs:
 
 
-        ![GET](images/execute.png)
+![GET](images/execute.png)
 
 
 
